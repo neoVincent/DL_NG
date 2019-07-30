@@ -1,5 +1,3 @@
-README.md
-
 ## Course summary
 
 Here are the course summary as its given on the course [link](https://www.coursera.org/learn/deep-neural-network):
@@ -16,4 +14,4 @@ Here are the course summary as its given on the course [link](https://www.course
 > This is the second course of the Deep Learning Specialization.
 
 More detailed course note:
-[Note: Improving Deep Neural Networks](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/2-%20Improving%20Deep%20Neural%20Networks/Readme.md)
+[Improving Deep Neural Networks](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/2-%20Improving%20Deep%20Neural%20Networks/Readme.md)
